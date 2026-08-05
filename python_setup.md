@@ -1,5 +1,5 @@
 
-# Ein-intergalaktischer-Reisef-hrer
+# Python Setup Guide
 
 # 1. Installation
 
