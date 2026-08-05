@@ -79,7 +79,7 @@ Zusätzliche Informationen und Beispiele zu `matplotlib` findet ihr [hier](https
 2. Wie verändert sich der Graph aus Aufgabe 6) durch die Skalierung des Koeffizienten? (sehr cool, dass ihr den interaktiven Plot hinbekommen habt :raised_hands:)
 
 
-# 3. Fit: Zum Beispiel Bestimmung der Erdbeschleunigung
+# 3. Fit: Zum Beispiel Exponentieller Zerfall
 
 Für die Auswertung unserer Daten brauchen wir (natürlich) noch eine weitere Bibliothek:
 
@@ -92,8 +92,8 @@ Wir wollen uns vor allem mit der Funktion [`curve_fit`](https://docs.scipy.org/d
 Im wesentlichen sind die folgenden Schritte notwendig:
 1. Bibliotheken importieren
 2. Fit-Funktion definieren, also unser mathematisches Modell
-3. Daten initialisieren, zum Beipsiel zwei Arrays
-4. mit `curve_fit` die Parameter (z.B. Erdbeschleunigung und Widerstandsbeiwert) der Fit-Funktion an Daten anpassen
+3. Daten initialisieren, zum Beipsiel in einem Array die Anzahl der übrigen Würfel dokumentieren
+4. mit `curve_fit` die Parameter (z.B. Exponentieller Zerfall) der Fit-Funktion an Daten anpassen
 5. Ergebnis plotten
 6. nachdenken, Modell oder Modelle überdenken, weiterdenken...
 
