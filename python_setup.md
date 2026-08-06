@@ -24,10 +24,10 @@ Nachdem ihr miniconda oder Anaconda und damit :snake: installiert habt, ist es Z
 
 Los geht's, öffnet das (miniconda oder Anaconda) Terminal und verwendet die folgenden Befehle. Ihr könnt das Terminal einfach in der Suchleiste suchen. Installation testen:
 
-`conda --version`     # z. B. conda 25.x.x
-`python --version`    # z. B. Python 3.13.x
-`where python`        # Windows: sollte im miniconda3-Pfad liegen
-`which python`        # macOS/Linux
+`conda --version`     z. B. conda 25.x.x
+`python --version`    z. B. Python 3.13.x
+`where python`        Windows: sollte im miniconda3-Pfad liegen
+`which python`        macOS/Linux
 
 Und dann:
 
