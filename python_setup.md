@@ -6,7 +6,9 @@
 Vokabeln:
 
 CLI: Command Line Interface (im wesentlich ein Terminal)
+
 GUI: Graphical User Interface (graphische Nutzerumgebung)
+
 IDE: Integrated Development Environment (Programmierumgebung)
 
 
