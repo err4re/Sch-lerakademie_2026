@@ -33,6 +33,8 @@ Und dann:
 
 Hier erstellen wir eine Umgebung mit dem Namen `akademie2026` und verwenden in dieser Umgebung Python 3 (niemand will mehr Python 2 und so sind wir uns sicher, dass es nicht peinlich wird). Ihr könnte gerne auch einen anderen Namen als `akademie2026` verwenden, das liegt bei euch. Aber jetzt ist es wahrscheinlich zu spät :joy:
 
+**conda-Umgebung**:	Ein isolierter Ordner mit eigener Python-Version und eigenen Paketen. Pro Projekt/Kurs/Idee eine Umgebung.
+
 Kurzes Update:
 
 `conda update conda`
